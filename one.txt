@@ -1,3 +1,4 @@
-this is the test file, which tell us how to use the git tool for version controlling
-the 1st time update based on the requirement.
-the 2nd time update based on the requirement. -----------2
+This is the test file, which tell us how to use the git tool for version controlling
+The 1st time update based on the requirement.
+The 2nd time update based on the requirement. -----------2
+The 3rd time update based on the requirement. -----------3 Capital the initial alpha beta
